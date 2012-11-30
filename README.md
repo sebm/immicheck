@@ -9,6 +9,7 @@ check for me.
 
 Install gems: 
 gem install bundler
+
 bundle install
 
 Some details are obfuscated.
