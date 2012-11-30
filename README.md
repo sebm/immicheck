@@ -7,10 +7,14 @@ check for me.
 
 ## How To
 
-Some details obfuscated.
+Install gems: 
+gem install bundler
+bundle install
+
+Some details are obfuscated.
 
 ```
-$ ruby immicheck.rb "NBC*123456789"
+$ bundle exec ruby immicheck.rb "NBC*123456789"
 
 {:status=>"Initial Review", :specific_info=>"On September xx, 20xx, we
 mailed you an appointment notice to have your fingerprints taken. Please
